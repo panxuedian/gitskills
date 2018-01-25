@@ -1,4 +1,5 @@
 # gitskills
+add merge
 <<<<<<< HEAD
 createing a new branch is quick and simple.
 =======
